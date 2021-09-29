@@ -1,2 +1,2 @@
 # kaiokot.github.io
-kaiokot.github.io GitHub Pages
+kaiokot.github.io exported from Notion > GitHub Pages
